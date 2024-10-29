@@ -1,3 +1,1 @@
-trainData/trainData.csv filter=lfs diff=lfs merge=lfs -text
-rawData/DAIGTV2/train_v2_drcat_02.csv filter=lfs diff=lfs merge=lfs -text
 *.npz filter=lfs diff=lfs merge=lfs -text
