@@ -8,7 +8,7 @@ This is the readme for our LLM Detection Project.
 
 All of our models are stored in src/models 
 To run one of these models please simply compile and run every cell of the Jupyter Notebook file.
-
+Our report is "Report.pdf" in the root directory of repo.
 We generally use these libraries and thus you will need to have them installed/available on your system:
  * Gensim
  * numpy
@@ -20,6 +20,7 @@ We generally use these libraries and thus you will need to have them installed/a
  * sys
  * codecs
  * nltk
+ * kagglehub
  * os
 
 Additionally we have a src/utils directory which serves as housing for our result recording code, and can be used for additional model testing 
